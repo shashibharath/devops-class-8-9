@@ -1,0 +1,13 @@
+
+
+
+#ssh
+#ssh-key
+#cd .ssh/
+#ls
+#cat id_rsa  //private key
+#cat rsa_pub //public key
+after copy the public key into github our personal page and add the key.
+#git clone <ssh path><filename>
+#git clone <https path><filename>
+#ls -a(hidden files)
